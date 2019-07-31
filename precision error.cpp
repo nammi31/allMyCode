@@ -1,0 +1,33 @@
+#include<bits/stdc++.h>
+#define sf1(x)      scanf("%d",&x)
+#define sf2(x,y)    scanf("%d %d",&x,&y)
+#define sf3(x,y,z)  scanf("%d %d %d",&x,&y,&z)
+#define pcase(x)    printf("Case %d: ",x)
+#define pf          printf
+#define pf1(x)      printf("%d\n",x)
+#define pf1s(x)     printf("%d ",x)
+#define pf2(x,y)    printf("%d %d\n",x,y)
+#define pf3(x,y,z)  printf("%d %d %d\n",x,y,z)
+#define FOR(i,x)    for(int i=0;i<x;i++)
+#define FOR1(i,x)   for(int i=1;i<=x;i++)
+#define FORL(i,lw,x)  for(int i=lw;i<x;i++)
+#define FORr(i,x)   for(int i=n; i>=1;i--)
+#define pb          push_back
+#define mem(a,x)    memset(a,x,sizeof(a))
+using namespace std;
+struct point{
+    double x,y;
+    point(double x,double y: x(x),y(y) )
+    a->operator +b;
+    point operator+(const point &p);
+};
+int main()
+{
+    point operator(a,b);
+    point a,b;
+    point c=a+b;
+    point a(10,10);
+    point(x+p.x, y+p.y);
+    cout<<c.x<<" "<<c.y<<endl;
+    return 0;
+}
